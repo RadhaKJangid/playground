@@ -1,0 +1,4 @@
+product=redmi
+product_no=123
+phoneNo=2243562
+Email=Radha@gmail.com
